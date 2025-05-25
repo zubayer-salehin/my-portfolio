@@ -157,7 +157,7 @@ export default function Projects() {
                               "noopener,noreferrer"
                             )
                           }
-                          className="p-3 bg-white/20 backdrop-blur-sm rounded-full hover:bg-white/30 transition-all duration-300 group/btn"
+                          className="p-3 bg-white/20 backdrop-blur-sm rounded-full hover:bg-white/30 transition-all duration-300 group/btn "
                         >
                           <Code2 className="h-5 w-5 text-white group-hover/btn:scale-110 transition-transform" />
                         </button>
@@ -222,7 +222,7 @@ export default function Projects() {
                               "noopener,noreferrer"
                             )
                           }
-                          className="group/btn hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
+                          className="group/btn hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl cursor-pointer"
                         >
                           <ExternalLink className="mr-2 h-4 w-4 group-hover/btn:rotate-45 transition-transform duration-300" />
                           Live Demo
@@ -236,7 +236,7 @@ export default function Projects() {
                               "noopener,noreferrer"
                             )
                           }
-                          className="group/btn hover:scale-105 transition-all duration-300 border-2 hover:border-emerald-300"
+                          className="group/btn hover:scale-105 transition-all duration-300 border-2 hover:border-emerald-300 cursor-pointer"
                         >
                           <Github className="mr-2 h-4 w-4 group-hover/btn:rotate-12 transition-transform duration-300" />
                           View Code

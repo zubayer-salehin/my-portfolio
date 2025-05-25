@@ -155,7 +155,7 @@ export default function Hero() {
                 )
               }
               size="lg"
-              className="group hover:scale-105 transition-all duration-200 shadow-lg hover:shadow-xl"
+              className="group hover:scale-105 transition-all duration-200 shadow-lg hover:shadow-xl cursor-pointer"
             >
               <Download className="mr-2 h-4 w-4 group-hover:animate-bounce" />
               Download Resume
@@ -164,7 +164,7 @@ export default function Hero() {
               variant="outline"
               size="lg"
               onClick={scrollToContact}
-              className="group hover:scale-105 transition-all duration-200 border-2 hover:border-emerald-300"
+              className="group hover:scale-105 transition-all duration-200 border-2 hover:border-emerald-300 cursor-pointer"
             >
               <Mail className="mr-2 h-4 w-4 group-hover:animate-pulse" />
               Contact Me

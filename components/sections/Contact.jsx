@@ -233,7 +233,7 @@ export default function Contact() {
                   >
                     <Button
                       type="submit"
-                      className="w-full group/btn hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl"
+                      className="w-full group/btn hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl cursor-pointer"
                       disabled={loading}
                     >
                       {loading ? (

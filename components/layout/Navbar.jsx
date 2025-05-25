@@ -127,7 +127,7 @@ export default function Navbar() {
                 )
               }
               size="sm"
-              className="bg-emerald-600 hover:bg-emerald-700 shadow-sm"
+              className="bg-emerald-600 hover:bg-emerald-700 shadow-sm cursor-pointer"
             >
               <Download className="mr-2 h-4 w-4" />
               <span className="hidden lg:inline">Resume</span>
@@ -177,7 +177,7 @@ export default function Navbar() {
                     )
                   }
                   size="default"
-                  className="w-full bg-emerald-600 hover:bg-emerald-700"
+                  className="w-full bg-emerald-600 hover:bg-emerald-700 cursor-pointer"
                 >
                   <Download className="mr-2 h-4 w-4" />
                   Download Resume
