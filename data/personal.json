@@ -1,0 +1,16 @@
+{
+  "name": "Zubayer Salehin",
+  "title": "Full-Stack Web Developer",
+  "tagline": "I build fast, scalable web apps with React, Node.js & MongoDB.",
+  "email": "zubayersalehin1@gmail.com",
+  "phone": "+8801309053657",
+  "location": "Kishoreganj, Bangladesh",
+  "profileImage": "https://i.ibb.co/ccsS8SqB/1732103228165.jpg",
+  "resume": "https://drive.google.com/file/d/1Cj_iDPHWubCTEBlQrQeSlwQppYZ-Ls5e/view?usp=sharing",
+  "social": {
+    "github": "https://github.com/zubayer-salehin",
+    "linkedin": "https://www.linkedin.com/in/mohammad-zubayer-salehin/",
+    "facebook": "https://www.facebook.com/zubayer.salehin1"
+  },
+  "about": "Dynamic Full-Stack Developer with 2+ years of experience in building efficient and scalable web applications. Skilled in React.js, Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, and MongoDB. Passionate about modular architecture and delivering robust full-stack solutions. Currently working at Brand Tech and pursuing a degree in Computer Science."
+}

@@ -1,0 +1,59 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Suite Rents",
+      "description": "A full-featured property rental platform with email-based authentication, property listings, appointments, and blog integration.",
+      "image": "./Screenshot 2025-05-25 204246.png",
+      "tech": [
+        "Next.js",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JWT"
+      ],
+      "type": "Full-Stack",
+      "liveUrl": "https://suiterents.com",
+      "githubUrl": "https://github.com/zubayer-salehin",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Aff Explore",
+      "description": "Affiliate Network Platform with offer management, monetized ads, and blogging system.",
+      "image": "/placeholder.svg?height=300&width=500",
+      "tech": [
+        "Next.js",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JWT"
+      ],
+      "type": "Full-Stack",
+      "liveUrl": "https://affexplore.com",
+      "githubUrl": "https://github.com/zubayer-salehin",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Flame Japanese Hibachi",
+      "description": "Modern restaurant website with real-time admin product management and secure user authentication.",
+      "image": "/placeholder.svg?height=300&width=500",
+      "tech": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JWT"
+      ],
+      "type": "Full-Stack",
+      "liveUrl": "https://www.flamejapanesehibachi.com/",
+      "githubUrl": "https://github.com/zubayer-salehin",
+      "featured": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Full-Stack Developer",
+      "company": "Brand Tech",
+      "duration": "Nov 2024 - Present",
+      "description": "Building and maintaining scalable full-stack applications using modern technologies including Next.js, TypeScript, and Node.js. Collaborating with senior developers to enhance performance and implement new features.",
+      "technologies": [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "company": "Sparrowan Limited",
+      "duration": "March 2024 - Aug 2024",
+      "description": "Engineered and maintained backend systems using a modular architecture. Developed RESTful APIs and optimized database operations for performance and scalability.",
+      "technologies": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Full-Stack Developer",
+      "company": "Ishqool",
+      "duration": "April 2023 - March 2024",
+      "description": "Designed and implemented end-to-end web applications with a focus on clean architecture and maintainability. Worked closely with cross-functional teams to improve system performance and deliver new features.",
+      "technologies": [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "PostgreSQL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "frontend": [
+    {
+      "name": "React",
+      "icon": "react"
+    },
+    {
+      "name": "Next.js",
+      "icon": "triangle"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "code"
+    },
+    {
+      "name": "HTML5",
+      "icon": "code2"
+    },
+    {
+      "name": "CSS3",
+      "icon": "palette"
+    },
+    {
+      "name": "Tailwind CSS",
+      "icon": "wind"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "braces"
+    }
+  ],
+  "backend": [
+    {
+      "name": "Node.js",
+      "icon": "server"
+    },
+    {
+      "name": "Express.js",
+      "icon": "zap"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "code"
+    },
+    {
+      "name": "REST API",
+      "icon": "api"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "database"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "database"
+    },
+    {
+      "name": "Socket.io",
+      "icon": "code"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "icon": "git-branch"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github"
+    },
+    {
+      "name": "Postman",
+      "icon": "send"
+    },
+    {
+      "name": "Vercel",
+      "icon": "triangle"
+    },
+    {
+      "name": "Firebase",
+      "icon": "container"
+    },
+    {
+      "name": "VS Code",
+      "icon": "code"
+    },
+    {
+      "name": "Chrome Dev Tool",
+      "icon": "code"
+    }
+  ]
+}
